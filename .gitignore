@@ -1,0 +1,11 @@
+data/raw/
+data/processed/
+models/
+*.parquet
+*.csv
+*.png
+*.html
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
